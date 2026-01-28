@@ -1,16 +1,42 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=200&section=header&text=Welcom%20to%20KD-commits-bit's%20GitHub&fontSize=42)
 
-<!--
-**KD-commits-bit/KD-commits-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://github.com/KD-commits-bit">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6DB33F&width=480&lines=Aspiring+Backend+Developer;Learning+Java+and+Spring+Boot;Open+Source+Contributor" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Open Source Contributions
+최근 오픈소스 프로젝트에 기여한 내역입니다.
+
+* **[Tadreeb-LMS](https://github.com/Tadreeb-LMS/tadreeblms)** * [PR #117](https://github.com/Tadreeb-LMS/tadreeblms/pull/117):
+  * Fixed dashboard data exposure issue by implementing teacher-specific data filtering, preventing new teachers from seeing global statistics. (Merged)
+  * 강사별 데이터 필터링 로직을 구현하여 개인정보 보호 및 대시보드 데이터 노출 보안 문제 해결
+
+---
+
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KD-commits-bit&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KD-commits-bit&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📜 Certifications
+- **정보처리기사** (Engineer Information Processing)
+
+---
+
+## 📫 Contact Me
+📧 **ellin0422@naver.com**
