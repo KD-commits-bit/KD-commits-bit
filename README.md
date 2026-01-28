@@ -12,8 +12,8 @@
     * Fixed dashboard data exposure issue by implementing teacher-specific data filtering.
     * 강사별 데이터 필터링 로직을 구현하여 데이터 노출 보안 문제 해결
   * **[Issue #118](https://github.com/Tadreeb-LMS/tadreeblms/issues/118) (Assigned)**
-    * Proposed documentation improvements for macOS installation to enhance developer onboarding experience.
-    * 신규 기여자를 위한 macOS 설치 가이드 보완 제안 및 환경 개선 주도
+    * Identified missing macOS installation documentation and proposed improvements to enhance contributor onboarding experience.
+    * macOS 환경 신규 기여자를 위한 설치 문서 누락 문제를 발견하고 개선 방향 제안
 
 ---
 
