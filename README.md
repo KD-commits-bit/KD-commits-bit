@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=200&section=header&text=Welcom%20to%20KD-commits-bit's%20GitHub&fontSize=42)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=200&section=header&text=Welcome%20to%20KD-commits-bit's%20GitHub&fontSize=42)
 
 <a href="https://github.com/KD-commits-bit">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6DB33F&width=480&lines=Aspiring+Backend+Developer;Learning+Java+and+Spring+Boot;Open+Source+Contributor" alt="Typing SVG" />
@@ -8,9 +7,13 @@
 ## 🚀 Open Source Contributions
 오픈소스 프로젝트에 기여한 내역입니다.
 
-* **[Tadreeb-LMS](https://github.com/Tadreeb-LMS/tadreeblms)** * [PR #117](https://github.com/Tadreeb-LMS/tadreeblms/pull/117):
-  * Fixed dashboard data exposure issue by implementing teacher-specific data filtering, preventing new teachers from seeing global statistics. (Merged)
-  * 강사별 데이터 필터링 로직을 구현하여 개인정보 보호 및 대시보드 데이터 노출 보안 문제 해결
+* **[Tadreeb-LMS](https://github.com/Tadreeb-LMS/tadreeblms)**
+  * **[PR #117](https://github.com/Tadreeb-LMS/tadreeblms/pull/117) (Merged)**
+    * Fixed dashboard data exposure issue by implementing teacher-specific data filtering.
+    * 강사별 데이터 필터링 로직을 구현하여 데이터 노출 보안 문제 해결
+  * **[Issue #118](https://github.com/Tadreeb-LMS/tadreeblms/issues/118) (Assigned)**
+    * Proposed documentation improvements for macOS installation to enhance developer onboarding experience.
+    * 신규 기여자를 위한 macOS 설치 가이드 보완 제안 및 환경 개선 주도
 
 ---
 
