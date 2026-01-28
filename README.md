@@ -6,7 +6,7 @@
 </a>
 
 ## 🚀 Open Source Contributions
-최근 오픈소스 프로젝트에 기여한 내역입니다.
+오픈소스 프로젝트에 기여한 내역입니다.
 
 * **[Tadreeb-LMS](https://github.com/Tadreeb-LMS/tadreeblms)** * [PR #117](https://github.com/Tadreeb-LMS/tadreeblms/pull/117):
   * Fixed dashboard data exposure issue by implementing teacher-specific data filtering, preventing new teachers from seeing global statistics. (Merged)
